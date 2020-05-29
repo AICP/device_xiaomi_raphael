@@ -1,0 +1,14 @@
+[
+    {
+        "repository": "dragonGR/proprietary_vendor_xiaomi",
+        "target_path": "vendor/xiaomi",
+	      "remote" : "github",
+	      "branch" : "q10.0"
+    },
+    {
+        "repository": "dragonGR/xiaomi_sm8150",
+        "target_path": "kernel/xiaomi/raphael",
+              "remote" : "github",
+              "branch" : "inline"
+    }
+]
