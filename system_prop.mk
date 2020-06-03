@@ -84,7 +84,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.radio.force_on_dc=true \
     persist.vendor.radio.redir_party_num=1 \
     persist.vendor.radio.report_codec=1 \
-    telephony.lteOnCdmaDevice=1
+    telephony.lteOnCdmaDevice=1 \
+    persist.sys.fflag.override.settings_network_and_internet_v2=true
 
 # RCS
 PRODUCT_PROPERTY_OVERRIDES += \
