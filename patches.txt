@@ -1,6 +1,0 @@
-101869/2 https://gerrit.aicp-rom.com frameworks/base
-101727/9 https://gerrit.aicp-rom.com frameworks/base
-101728/17 https://gerrit.aicp-rom.com frameworks/base
-101592/25 https://gerrit.aicp-rom.com frameworks/base
-101723/6 https://gerrit.aicp-rom.com frameworks/native
-101722/5 https://gerrit.aicp-rom.com vendor/aicp
