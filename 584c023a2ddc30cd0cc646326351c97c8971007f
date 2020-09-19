@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "453173f5_65c402b9",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2020-09-19T10:02:28Z",
+      "side": 0,
+      "message": "this can be removed with a followup commit. it is deprecated",
+      "revId": "584c023a2ddc30cd0cc646326351c97c8971007f",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
