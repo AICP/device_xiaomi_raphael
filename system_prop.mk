@@ -41,7 +41,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.displayfeature.dc_backlight.threshold=610 \
     persist.displayfeature.dc_backlight.enable=false \
     persist.fod.modified.dc_status=false \
-    sys.displayfeature.hbm.enable=true
+    sys.displayfeature.hbm.enable=true \
+    ro.surface_flinger.use_color_management=true
 
 # Graphics
 PRODUCT_PROPERTY_OVERRIDES += \
