@@ -122,4 +122,7 @@
 
     <!-- If this is true, the screen will fade off. -->
     <bool name="config_animateScreenLights">false</bool>
+
+    <!-- Does the device supports Smart Battery -->
+    <bool name="config_smart_battery_available">true</bool>
 </resources>
