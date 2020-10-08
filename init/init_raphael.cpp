@@ -69,7 +69,7 @@ void vendor_load_properties() {
         LOG(ERROR) << __func__ << ": unexcepted region!";
     }
 
-    property_override("ro.build.fingerprint", "google/coral/coral:11/RP1A.200720.009/6720564:user/release-keys");
+    property_override("ro.build.fingerprint", "google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys");
 
     property_override("ro.oem_unlock_supported", "0");
 }
