@@ -104,4 +104,7 @@
 
     <!-- FOD pressed color-->
     <bool name="config_fod_color_picker">true</bool>
+
+    <!-- Whether device ignores the RSSNR signal implementation -->
+    <bool name="config_ignoreRssnrSignalLevel">false</bool>
 </resources>
