@@ -96,4 +96,6 @@
     -->
     <integer name="config_fingerprintSensorLocation">1</integer>
 
+    <!-- Whether device supports in-display fingerprint when screen is turned off -->
+    <bool name="config_supportsInDisplayFingerprintGesture">true</bool>
 </resources>
