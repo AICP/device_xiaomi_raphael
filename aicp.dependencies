@@ -1,10 +1,16 @@
 [
     {
         "repository": "AICP/proprietary_vendor_xiaomi",
-        "target_path": "vendor/xiaomi"
+        "target_path": "vendor/xiaomi",
+	      "remote" : "github",
+	      "branch" : "r11.0"
+    },
     },
     {
         "repository": "dragonGR/vendor_prebuilts",
-        "target_path": "vendor/prebuilts"
+        "target_path": "vendor/prebuilts",
+	      "remote" : "github",
+	      "branch" : "eleven"
+    },
     }
 ]
