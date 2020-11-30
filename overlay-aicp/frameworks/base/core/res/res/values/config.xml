@@ -84,6 +84,7 @@
 
     <!-- Multicolor Led Support -->
     <bool name="config_multiColorBatteryLed">false</bool>
+    <bool name="config_intrusiveBatteryLed">false</bool>
 
     <!-- Whether to show a custom view for FOD -->
     <bool name="config_needCustomFODView">true</bool>
