@@ -1,3 +1,7 @@
+type hal_perf_default, domain, mlstrustedsubject;
+
+r_dir_file(hal_perf_default, system_server)
+
 dontaudit hal_perf_default self:capability { dac_override dac_read_search };
 allow hal_perf_default {
 init
